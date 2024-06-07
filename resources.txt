@@ -1,0 +1,5 @@
+StudentLife Dataset: https://studentlife.cs.dartmouth.edu/datasets.html
+
+Data description/ downloading from kaggle: https://www.kaggle.com/datasets/dartweichen/student-life/data
+
+The Book: https://books.google.co.in/books/about/Statistics_for_People_who_think_They_Hat.html?id=t_L8jwEACAAJ&redir_esc=y#:~:text=The%20Sixth%20Edition%20of%20Neil,%2C%20personable%2C%20and%20informative%20approach.
