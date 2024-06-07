@@ -1,1 +1,7 @@
+jupyter notebook
+pandas
+numpy
+matplotlib.pyplot
+seaborn
 
+And a hell lot of patience!
