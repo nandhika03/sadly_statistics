@@ -1,7 +1,7 @@
 # sadly_statistics
 As a person who dislikes statistics, this is my journey towards disliking it even more!
 
-"Statistics for people who hate Statistics" is the book that I will leaning on throughtout this repo. The book can be downloaded from the website link provided in the resources section of this page.
+"Statistics for people who (think) that they hate Statistics" [Edition 6] is the book that I will leaning on throughtout this repo. The book can be downloaded from the website link provided in the resources section of this page.
 
 PART I
 
