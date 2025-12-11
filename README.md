@@ -4,8 +4,6 @@ As a person who dislikes statistics, this is my journey towards disliking it eve
 "Statistics for people who (think) that they hate Statistics" [Edition 6] is the book that I will leaning on throughtout this repo. The book can be downloaded from the website link provided in the resources section of this page.
 
 PART I
-
-PART II
 - This includes the basics of statistics including measure of central tendency, variability and correlation
 - The data set that has been used here is titled as 'Student life' which can be found on Kaggle
 - The content in the notebook is like a reduction or what I would like to call 'me explaining to my brain in the dumbest language I know'. So, inorder to better understand, please do refer the book mentioned in the resources.
@@ -22,5 +20,5 @@ Dataset:
 - It also questions the relationship between student grades and their behavioral and environmental aspects
 - The dataset consists of various datasets ranging from the sleep data in .json format to the stress levels and PANAS (Positive and Negative Affect Scale) in the .csv format
 
-Metadata:
+
 
